@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IamDjura
+- 👋 Hi, I’m @cvetko
 - 👀 I’m interested in Programming and Gaming
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
